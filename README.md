@@ -1,4 +1,4 @@
-# -
+# 金蝶任意文件上传poc
 访问接口  
 http://127.0.0.1/k3cloud/SRM/ScpSupRegHandler  
 
