@@ -34,4 +34,5 @@ test
 
 上传成功访问路径  
 http://127.0.0.1/k3cloud/uploadfiles/kingdee.txt  
-替换poc内上传内容为aspx马，提交上传getshell
+替换poc内上传内容为aspx马，提交上传getshell  
+http://127.0.0.1/k3cloud/uploadfiles/kingdee.aspx
